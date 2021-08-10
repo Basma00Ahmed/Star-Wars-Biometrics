@@ -1,0 +1,45 @@
+
+  header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("IMG/Header.jpg");
+    height:30vh;
+    width:100%;
+    top: 0px;
+    left:0px;
+    right:0px;
+    border-bottom:solid 1px black;
+  }
+
+  footer{
+    text-align:center;
+    color:  rgba(248, 216, 73, 0.959);
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("IMG/Footer.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:inline-block;
+    height:50px;
+    width:100%;
+    font-weight: bolder;
+    bottom: 0px;
+    left:0px;
+    right:0px;
+    position:fixed;
+  }
+  .container{
+    padding:5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  
+  label
+  {
+
+    color: rgb(0, 0, 0);
+  }
+  button{
+    color:  rgba(248, 216, 73, 0.959)! important;
+    background-color: black ! important;
+  }
